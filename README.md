@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Du bist das goldene Band in der pechschwarzen Nacht,
+> Baby, schau, wie die Skyline nur für uns beide lacht.
+> Fahr den Wagen durch die City, mach die Fenster down,
+> Deine Blicke machen süchtig, bist die Queen of the Town.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
